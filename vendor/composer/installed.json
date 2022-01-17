@@ -1052,26 +1052,26 @@
     },
     {
         "name": "roots/wordpress",
-        "version": "5.8.2",
-        "version_normalized": "5.8.2.0",
+        "version": "5.8.3",
+        "version_normalized": "5.8.3.0",
         "source": {
             "type": "git",
             "url": "https://github.com/WordPress/WordPress.git",
-            "reference": "5.8.2"
+            "reference": "5.8.3"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/WordPress/WordPress/zipball/refs/tags/5.8.2",
-            "reference": "5.8.2"
+            "url": "https://api.github.com/repos/WordPress/WordPress/zipball/refs/tags/5.8.3",
+            "reference": "5.8.3"
         },
         "require": {
             "php": ">=5.3.2",
             "roots/wordpress-core-installer": ">=1.0.0"
         },
         "provide": {
-            "wordpress/core-implementation": "5.8.2"
+            "wordpress/core-implementation": "5.8.3"
         },
-        "time": "2021-11-10T23:24:02+00:00",
+        "time": "2022-01-06T19:19:24+00:00",
         "type": "wordpress-core",
         "installation-source": "dist",
         "notification-url": "https://packagist.org/downloads/",
